@@ -1,4 +1,4 @@
-# Window-based data hybridisation
+# Data hybridisation
 
 A small, dataset-independent implementation for combining two time series by
 sampling and shuffling temporal windows. It uses random sampling without
