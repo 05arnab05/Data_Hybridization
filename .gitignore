@@ -1,0 +1,37 @@
+# Local Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+.env
+.env.*
+
+# Research data and generated outputs are not part of this method-only repo.
+data/
+datasets/
+results/
+outputs/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.pkl
+*.pickle
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.zip
+*.pt
+*.pth
+*.joblib
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
